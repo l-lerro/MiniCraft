@@ -9,7 +9,7 @@ public class Player {
     private Vector3f position;
 
     public Player(float x, float y, float z){
-        position = new Vector3f(x, y, x);
+        position = new Vector3f(x, y, z);
 
     }
 

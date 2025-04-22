@@ -68,6 +68,10 @@ public class Block {
         glEnd();
     }
 
+    public Vector3f getPosition() {
+        return position;
+    }
+
 
 
 }
